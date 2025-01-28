@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hey there 👋
 
+- 🔭 I’m currently working on an app to bring greater accessibility to Toronto
+- 🔮 I’m currently learning about web3 protocols, the blockchain, and different backend services
+- 🏄🏻‍♀️ I’m looking to collaborate on projects that are helping to decentralize the web
+  
 <!--
 **enicol/enicol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
