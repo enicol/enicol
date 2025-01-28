@@ -1,4 +1,5 @@
 ## Hey there 👋
+I'm Emma, a software engineer with over 8 years of experience building and shipping applications. I have an obsession with good UX, and I love to learn and explore new tehnologies.
 
 - 🔭 I’m currently working on an app to bring greater accessibility to Toronto
 - 🔮 I’m currently learning about web3 protocols, the blockchain, and different backend services
